@@ -8,3 +8,8 @@ A simple to use & setup discord bot wrote in Python and Discord.py
 ## Easily add new roles
 ## Easily use custom emojis
 ## New user friendly, simple if statements
+
+
+![alt text](https://i.imgur.com/3va8Rs2.png)
+
+
