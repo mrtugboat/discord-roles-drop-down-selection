@@ -1,4 +1,6 @@
-A simple to use & setup discord bot wrote in Python and Discord.py
+A simple to use & setup discord bot wrote in Python and Discord.py. You can easily change the bots name, logo and everything it does! 
+
+## I am releasing on my own amazing Bot that can do everything!
 
 1. Ensure you have Python, Discord modules installed
 2. Add your token
