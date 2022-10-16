@@ -6,6 +6,9 @@ I am releasing my own amazing Bot that can do everything! I work with a team of 
 2. Add your token
 3. Once bot online, use the command !roles and you can use a drop down box to select a role and it gets issued
 
+# My Discord https://discord.gg/wZU2MA8nSw
+
+
 
 ## Drop Down Role selector
 ![alt text](https://i.imgur.com/3va8Rs2.png)
